@@ -8,7 +8,7 @@ body{
 }
 header{
   height: 80px;
-  background-color: violet;
+  background-color: darkgray;
   display: flex;
   justify-content: end;
   align-items: center;
@@ -23,13 +23,13 @@ button , select{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: grey;
+  background-color: lightgrey;
 }
 .container{
   display: flex;
   flex-wrap: wrap;
-  width: 1200px;
-
+  width: 900px;
+  height: 900px;
   background-color: green;
 }
 .box{
